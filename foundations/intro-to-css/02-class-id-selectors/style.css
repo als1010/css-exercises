@@ -1,0 +1,16 @@
+.odd-numbers {
+    background-color: lightcoral;
+    font-family: Verdana, "Deja Vu Sans", sans-serif;
+}
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+#big-green {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+.large-text {
+    font-size: 24px;
+}
